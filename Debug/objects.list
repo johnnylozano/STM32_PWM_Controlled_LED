@@ -1,0 +1,6 @@
+"./Core/Src/adc.o"
+"./Core/Src/main.o"
+"./Core/Src/syscalls.o"
+"./Core/Src/sysmem.o"
+"./Core/Src/tim.o"
+"./Core/Startup/startup_stm32f411retx.o"
