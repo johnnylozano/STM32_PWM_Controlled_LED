@@ -34,12 +34,19 @@ The project is divided into three source files:
 2. The Timer is configured to generate a PWM signal on PA5.
 3. The main program loop continuously reads the ADC value (potentiometer position) and updates the PWM duty cycle to control the brightness of the LED.
 
-## Video Demo
+## Demo
 
-<video width="640" height="480" controls muted>
-  <source src="demo/demo.MOV" type="video/quicktime">
-  Your browser does not support the video tag.
-</video>
+### Potentiometer at off position
+
+<img src="demo/off.PNG" alt="Off Position" width="320" height="auto">
+
+### Potentiometer at medium position
+
+<img src="demo/medium.PNG" alt="Medium Position" width="320" height="auto">
+
+### Potentiometer at high position
+
+<img src="demo/high.PNG" alt="High Position" width="320" height="auto">
 
 ## License
 
