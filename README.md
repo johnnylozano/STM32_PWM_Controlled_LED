@@ -14,7 +14,7 @@ The project is divided into three source files:
 
 ## Requirements
 
-- STM32F4 microcontroller (tested on STM32F401RE)
+- STM32F4 microcontroller (tested on STM32F411RE)
 - Potentiometer
 - LED
 - 220 Ohm resistor
